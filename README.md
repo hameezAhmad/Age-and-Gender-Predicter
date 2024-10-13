@@ -13,8 +13,7 @@ This project is a web application designed to predict the gender and age group o
 6. [Using the Application](#using-the-application)
 7. [Folder Structure](#folder-structure)
 8. [Troubleshooting](#troubleshooting)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [License](#license)
 
 ## Project Overview
 
@@ -121,14 +120,6 @@ project-root/
   - Make sure Node.js is installed. If not, download and install it from [Node.js official website](https://nodejs.org/).
   - If `npm start` fails, try deleting the `node_modules` folder and running `npm install` again.
 
-## Contributing
-
-We welcome contributions to improve the system. To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes.
-4. Submit a pull request.
-
 ## License
 
-This project is licensed under the Sufa International College.
+This project is licensed under the **Sufa International College** under the Supervision of **Mr. Arfan Shahzad**.
